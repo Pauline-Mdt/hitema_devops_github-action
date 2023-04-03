@@ -1,6 +1,6 @@
 def moyenne(values):
 
-    t = 100
+    t = 0
     for v in values:
         t = t + v
 
